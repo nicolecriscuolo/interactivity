@@ -1,0 +1,25 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+# This is Nicole's awesome website
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+You can do anything you might usually do. 
+
+This is an example from [P8105](https://p8105.com/index.html). Learn more about this site [here](about.html)
+
+You can also use [google](https://www.google.com/).
+
+To show that you can use RMD like normal, check out [this page](plots.html) with plots
+
+Here's a picture of THON:
+![](images/DSCF0001.JPG)
+
+
