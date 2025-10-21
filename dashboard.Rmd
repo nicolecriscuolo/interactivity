@@ -78,4 +78,3 @@ nyc_airbnb |>
     type = "bar"
   )
 ```
-
